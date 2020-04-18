@@ -1,8 +1,1 @@
-'afterfeatureengineering2.csv' filter=lfs diff=lfs merge=lfs -text
-'2yrslistings_seasonality_topic_amenity_sentiment_attraction.csv' filter=lfs diff=lfs merge=lfs -text
-'2yrslistings_seasonality_topic_amenity_sentiment_attraction_cleaned.csv' filter=lfs diff=lfs merge=lfs -text
-'afterpreprocessing.csv' filter=lfs diff=lfs merge=lfs -text
-'afterpreprocessing_old.csv' filter=lfs diff=lfs merge=lfs -text
-'result.csv' filter=lfs diff=lfs merge=lfs -text
-'10klistings_2yrs.csv' filter=lfs diff=lfs merge=lfs -text
-'10klistings_2yrs_reviews.csv' filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
